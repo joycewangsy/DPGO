@@ -1,3 +1,3 @@
 # DPGO
 ## code of Deep Patch-based Global Normal Orientation
-Materials are being sorted and we will upload code and datasets soon.
+Our trained model are saved in models. You can run points_to_surf_eval.py to evaluate. You also can run normals_train.py to train your model.
